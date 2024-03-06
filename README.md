@@ -24,7 +24,7 @@ Before proceeding, ensure you have:
 **Step 1: Creating a resume** - To begin, you will need a resume formatted using a lightweight markup language called Markdown.
 </br>Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites]() can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.</br>
 
-![VS Code Preview]()
+![VS Code Preview](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/a2gif_1.gif)
 
 
 **Step 2: Sign in to your Github Account** - Sign in using the credentials. Etter emphasizes the importance of utilizing version control systems like Distributed Version Control Systems (DVCS) to manage project history and facilitate collaboration among team members. DVCS, such as Git, offers several advantages that make them preferable tools for both technical writers and developers alike. These benefits include better performance, offline capabilities, and support for concurrent edits. By leveraging DVCS, technical writers can ensure that their documents and code branches stay in sync, facilitating smoother collaboration and ensuring that all team members have access to the latest version of the resume. Additionally, DVCS makes it easier to share the resume with a lot of people, as it provides a centralized repository that can be accessed by anyone with the appropriate permissions. 
