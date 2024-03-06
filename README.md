@@ -48,8 +48,7 @@ Before proceeding, ensure you have:
 
 * For the next step GitHub Pages will look for an `index.md` file as the entry file for your site, rename the document that you uploaded to `index.md`.
 
-
-
+![rename](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/rename.gif)
 
 **Step 5: Hosting Your Resume using GitHub Pages** - Static websites are accessible to everyone, as Andrew pointed out. One major benefit is their speed; without complex background processes, static websites load quickly. This means users don't have to wait long for pages to load, enhancing the user experience. Additionally, static websites are easy to create and maintain. They don't demand advanced coding skills or special software, making them accessible to people with varying technical expertise levels. Plus, they can be hosted on various platforms without any inconvenience. Another advantage is their security; static websites are less vulnerable to hacking because they lack the complex features that can be exploited by cyber attackers.
 
