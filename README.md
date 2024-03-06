@@ -21,8 +21,7 @@ Before proceeding, ensure you have:
 
 ## Instructions
 
-**Step 1: Creating a resume** - To begin, you will need a resume formatted using a lightweight markup language called Markdown.
-</br>Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.</br>
+**Step 1: Creating a resume** - To begin, you will need a resume formatted using a lightweight markup language called Markdown. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.
 
 ![VS Code Preview](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/vs_code.gif)
 
