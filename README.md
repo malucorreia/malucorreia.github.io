@@ -8,8 +8,8 @@ The purpose of this document is to guide you through the practical steps of host
  * [**Prerequisites**](https://github.com/malucorreia/malucorreia.github.io/tree/main?tab=readme-ov-file#prerequisites)
  * [**Instructions**](https://github.com/malucorreia/malucorreia.github.io/tree/main?tab=readme-ov-file#instructions)
  * [**More Resources**](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#more-resources)
- * [**Authors**](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#authors-and-acknowledgements)
- * [**Acknowledgments**]()
+ * [**Authors**](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#authors)
+ * [**Acknowledgments**](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#acknowledgements)
  * [**FAQs**](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#faqs)
 
 ## Prerequisites
