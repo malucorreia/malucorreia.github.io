@@ -34,7 +34,7 @@ Before proceeding, ensure you have:
 
 * On the main page click on new beside the repository section
 
-![Repository]()
+![Repository](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/repo_name.gif)
 
 
 * Enter the repository name as `username.github.io`, the username being your GitHub username.
