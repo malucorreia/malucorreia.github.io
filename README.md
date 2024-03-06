@@ -21,7 +21,7 @@ Before proceeding, ensure you have:
 
 ## Instructions
 
-**Step 1: Creating a resume** - To begin, you will need a resume formatted using a lightweight markup language called Markdown. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.
+**Step 1: Creating a resume** - You will need a resume formatted using a lightweight markup language called Markdown. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.
 
 ![VS Code Preview](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/vs_code.gif)
 
@@ -42,10 +42,13 @@ Before proceeding, ensure you have:
 
 **IMPORTANT** - You cannot use any other repository name. 
 
-**Step 4: Uploading Resume** - Upload the resume file to the newly created repository by Add file -> Upload files. 
-</br> For the next step GitHub Pages will look for an `index.md` file as the entry file for your site, rename the document that you uploaded to `index.md`. </br>
+**Step 4: Uploading Resume** - Upload the resume file to the newly created repository by Add file -> Upload files.
 
 ![Uploading](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/upload_file.gif)
+
+* For the next step GitHub Pages will look for an `index.md` file as the entry file for your site, rename the document that you uploaded to `index.md`.
+
+
 
 
 **Step 5: Hosting Your Resume using GitHub Pages** - Static websites are accessible to everyone, as Andrew pointed out. One major benefit is their speed; without complex background processes, static websites load quickly. This means users don't have to wait long for pages to load, enhancing the user experience. Additionally, static websites are easy to create and maintain. They don't demand advanced coding skills or special software, making them accessible to people with varying technical expertise levels. Plus, they can be hosted on various platforms without any inconvenience. Another advantage is their security; static websites are less vulnerable to hacking because they lack the complex features that can be exploited by cyber attackers.
@@ -60,8 +63,8 @@ Before proceeding, ensure you have:
 
 
 * Create a `_config.yml` file in your repository.
-* Add the midnight supported GitHub Pages theme in the `_config.yml` file, by adding the code: ```remote_theme:pages-themes/midnight@v0.2.0```. 
-* Add a title to your page by adding the code : ```title: Resume```. You can name your page whatever you like. 
+* Add the midnight supported GitHub Pages theme in the `_config.yml` file, by adding the code:```remote_theme:pages-themes/midnight@v0.2.0```. 
+* Add a title to your page by adding the code: ```title: Resume```. You can name your page whatever you like. 
 
 ![confi](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/config.gif)
 
