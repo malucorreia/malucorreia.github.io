@@ -16,7 +16,7 @@ The purpose of this document is to guide you through the practical steps of host
 Before proceeding, ensure you have:
 * **Markdown Editor** - you would require a basic markdown editor which can be [VS Code](https://visualstudio.microsoft.com/#vscode-section). 
 * **Resume formatted in Markdown** -  a resume formatted in Markdown language and a tutorial on how to use Markdown is attached in the [More Resources](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#more-resources) section. 
-* **GitHub account** - we are going to be using GitHub as it is the most widely Distributed Version Control in the market. 
+* **GitHub account** - we are going to be using [GitHub](https://github.com) as it is the most widely Distributed Version Control in the market. 
 
 
 ## Instructions
@@ -80,7 +80,7 @@ And Congrats! You are ready to showcase your resume!!
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Custom Jekyll Theme Tutorial]([https://jekyllrb.com/docs/](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll))
+- [Custom Jekyll Theme Tutorial](https://jekyllrb.com/docs/](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [GitHub Supported Themes](https://pages.github.com/themes/) 
 
