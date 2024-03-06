@@ -86,7 +86,7 @@ And Congrats! You are ready to showcase your resume!!
 - [GitHub Supported Themes](https://pages.github.com/themes/) 
 
 ## Authors
-- Maria Luisa - Instructions on hosting and formatting Resume - (malucorreia)[https://github.com/malucorreia]
+- Maria Luisa - Instructions on hosting and formatting Resume - [malucorreia](https://github.com/malucorreia)
 
 ## Acknowledgements
 - Alejandro Labra - Peer Reviewed the Readme.md 
