@@ -80,7 +80,7 @@ And Congrats! You are ready to showcase your resume!!
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Custom Jekyll Theme Tutorial](https://jekyllrb.com/docs/](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+- [Custom Jekyll Theme Tutorial](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [Modern Technical Writing by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - [GitHub Supported Themes](https://pages.github.com/themes/) 
 
