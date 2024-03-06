@@ -37,7 +37,7 @@ Before proceeding, ensure you have:
 ![Repository](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/new_repo.png)
 
 
-* Enter the repository name as `username.github.io`, the username being your GitHub username.
+* Enter the repository name as `username.github.io`, the username is your GitHub username.
 
 ![Name](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/repo_name.gif)
 
@@ -61,7 +61,7 @@ Before proceeding, ensure you have:
 
 
 * Create a `_config.yml` file in your repository.
-* Add the midnight supported GitHub Pages theme in the `_config.yml` file, by adding the code : ```remote_theme:pages-themes/midnight@v0.2.0```. 
+* Add the midnight supported GitHub Pages theme in the `_config.yml` file, by adding the code: ```remote_theme:pages-themes/midnight@v0.2.0```. 
 * Add a title to your page by adding the code : ```title: Resume```. You can name your page whatever you like. 
 
 ![confi](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/config.gif)
@@ -85,12 +85,12 @@ And Congrats! You are ready to showcase your resume!!
 - [GitHub Supported Themes](https://pages.github.com/themes/) 
 
 ## Authors
-- Maria Luisa 
+- Maria Luisa - Instructions on hosting and formatting Resume - (malucorreia)[https://github.com/malucorreia]
 
 ## Acknowledgements
 - Alejandro Labra - Peer Reviewed the Readme.md 
 - Shanaya McMillan - Peer Reviewed the Readme.md 
-- Andrew Etter 
+- Matt Graham - Provided Jekyell Theam Template - [Midnight](https://github.com/mattgraham)
 
 
 ## FAQs
