@@ -1,8 +1,11 @@
 # Hosting and Formatting Resume
 
-
 ## Purpose
-The purpose of this document is to guide you through the practical steps of hosting and formatting your resume using different technologies. We will use Markdown language for editing, a markdown editor, GitHub Pages, and Jekyll(a static site generator). Additionally, this document will also relate these practical steps to the general principles of modern technical writing, as outlined in Andrew Etter's book "Modern Technical Writing."
+The purpose of this document is to guide you through the practical steps of hosting and formatting your resume as a static webpage using various easy-to-use technologies. 
+
+We will use the **Markdown** language to create a resume Markdown (`.md`) file, an **editor** to write said file, **GitHub Pages** to host the website, and **Jekyll** to create the static webpage. 
+
+Additionally, this document will relate these practical steps to the general principles of modern technical writing, as outlined in Andrew Etter's book "Modern Technical Writing."
 
 ## Table of Contents 
  * [**Prerequisites**](https://github.com/malucorreia/malucorreia.github.io/tree/main?tab=readme-ov-file#prerequisites)
