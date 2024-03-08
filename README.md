@@ -17,19 +17,19 @@ Additionally, this document will relate these practical steps to the general pri
 
 ## Prerequisites
 Before proceeding, ensure you have:
-* **Markdown Editor** - you would require a basic markdown editor which can be [VS Code](https://visualstudio.microsoft.com/#vscode-section). 
+* **Markdown Editor** - it requires a basic markdown editor which can be [VS Code](https://visualstudio.microsoft.com/#vscode-section). 
 * **Resume formatted in Markdown** -  a resume formatted in Markdown language and a tutorial on how to use Markdown is attached in the [More Resources](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#more-resources) section. 
-* **GitHub account** - we are going to be using [GitHub](https://github.com) as it is the most widely Distributed Version Control in the market. 
+* **GitHub account** - [GitHub](https://github.com) will be used as it is the most widely Distributed Version Control in the market. 
 
 
 ## Instructions 
 
-**Step 1: Creating a resume** - You will need a resume formatted using a lightweight markup language called Markdown. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.
+**Step 1: Creating a resume** - A resume formatted using Markdown, a lightweight markup language. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, which is crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) section which includes a live preview tool to track your progress, can be used. Below is a GIF demonstrating the live preview feature in action.
 
 ![VS Code Preview](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/vs_code.gif)
 
 
-**Step 2: Sign in to your Github Account** - Sign in using your credentials. Etter emphasizes the importance of utilizing version control systems like Distributed Version Control Systems (DVCS) to manage project history and facilitate collaboration among team members. DVCS, such as Git, offers several advantages that make them preferable tools for both technical writers and developers alike. These benefits include better performance, offline capabilities, and support for concurrent edits. By leveraging DVCS, technical writers can ensure that their documents and code branches stay in sync, facilitating smoother collaboration and ensuring that all team members have access to the latest version of the resume. Additionally, DVCS makes it easier to share the resume with a lot of people, as it provides a centralized repository that can be accessed by anyone with the appropriate permissions. 
+**Step 2: Sign in to your Github Account** - Sign in using your credentials. Etter emphasizes the importance of utilizing version control systems like Distributed Version Control Systems (DVCS) to manage project history and facilitate collaboration among team members. DVCS, such as Git, offers several advantages that make them preferable tools for both technical writers and developers alike. These benefits include better performance, offline capabilities, and support for concurrent edits. By leveraging DVCS, technical writers can ensure that their documents and code branches stay in sync, facilitating smoother collaboration and ensuring all team members have access to the latest resume version. Additionally, DVCS makes it easier to share the resume with a lot of people, as it provides a centralized repository that anyone with the appropriate permissions can access. 
 
 
 **Step 3: Creating Repository** - Create a repository on GitHub to host your project files.
@@ -66,12 +66,12 @@ Before proceeding, ensure you have:
 
 * Create a `_config.yml` file in your repository.
 * Add the midnight supported GitHub Pages theme in the `_config.yml` file, by adding the code:```remote_theme:pages-themes/midnight@v0.2.0```. 
-* Add a title to your page by adding the code: ```title: Resume```. You can name your page whatever you like. 
+* Add a title to your page by adding the code: ``` title: Resume```. You can name your page whatever you like. 
 
 ![confi](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/config.gif)
 
  
-Note - If you want to use your own custom them then refer to the link in [More Resources](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#more-resources) section. 
+Note - If you want to use your custom them then refer to the link in [More Resources](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#more-resources) section. 
 Or if you want to use another supported theme check the [list](https://pages.github.com/themes/). 
 
 
@@ -103,4 +103,3 @@ Markdown is better than a word processor because Markdown offers a straightforwa
 
 ### Why is my resume not showing up?
 Ensure that your index Markdown file is correctly formatted and pushed to the designated branch in your GitHub repository. Also, verify that the GitHub Pages settings are configured correctly, including the choice of theme and branch for deployment. If issues persist, check the repository's build logs for any errors that might provide insight into the problem.
-
