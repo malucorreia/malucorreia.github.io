@@ -19,7 +19,7 @@ Before proceeding, ensure you have:
 * **GitHub account** - we are going to be using [GitHub](https://github.com) as it is the most widely Distributed Version Control in the market. 
 
 
-## Instructions
+## Instructions 
 
 **Step 1: Creating a resume** - You will need a resume formatted using a lightweight markup language called Markdown. Andrew Etter emphasizes the purpose of lightweight markup as simplifying the creation of well-formed XML, crucial for website development. Markdown is a lightweight markup language that offers simplicity and readability while providing enough formatting options to create professional-looking documents, such as resumes. Hence, we will be using this language to create the resume. The editor mentioned in the [Prerequisites](https://github.com/malucorreia/malucorreia.github.io?tab=readme-ov-file#prerequisites) can be used, which has a live preview tool to track your progress. Below is a GIF demonstrating the live preview feature in action.
 
@@ -58,7 +58,7 @@ Before proceeding, ensure you have:
 
 ![GitPages](https://github.com/malucorreia/malucorreia.github.io/blob/main/images/github_pages.gif)
 
-**Step 5: Configure Jekyll** - According to Andrew Etter, Jekyll is the most popular choice and offers distinct advantages for creating static websites, particularly for documentation purposes. Its specialization in generating documentation websites ensures a robust system with features like nested navigation menus, specifically designed to meet the needs of documentation projects. Additionally, Jekyll's ease of configuration via the `_config.yml` file allows users to customize settings according to their preferences, enhancing flexibility and enabling easy adaptation to specific design requirements. 
+**Step 6: Configure Jekyll** - According to Andrew Etter, Jekyll is the most popular choice and offers distinct advantages for creating static websites, particularly for documentation purposes. Its specialization in generating documentation websites ensures a robust system with features like nested navigation menus, specifically designed to meet the needs of documentation projects. Additionally, Jekyll's ease of configuration via the `_config.yml` file allows users to customize settings according to their preferences, enhancing flexibility and enabling easy adaptation to specific design requirements. 
 
 
 * Create a `_config.yml` file in your repository.
@@ -72,7 +72,7 @@ Note - If you want to use your own custom them then refer to the link in [More R
 Or if you want to use another supported theme check the [list](https://pages.github.com/themes/). 
 
 
-**Step 6: Verify Your Resume Website** - Visit the provided URL (`https://yourusername.github.io` ) to view your hosted resume.
+**Step 7: Verify Your Resume Website** - Visit the provided URL (`https://yourusername.github.io` ) to view your hosted resume.
 
 And Congrats! You are ready to showcase your resume!! 
 
@@ -100,5 +100,4 @@ Markdown is better than a word processor because Markdown offers a straightforwa
 
 ### Why is my resume not showing up?
 Ensure that your index Markdown file is correctly formatted and pushed to the designated branch in your GitHub repository. Also, verify that the GitHub Pages settings are configured correctly, including the choice of theme and branch for deployment. If issues persist, check the repository's build logs for any errors that might provide insight into the problem.
-
 
